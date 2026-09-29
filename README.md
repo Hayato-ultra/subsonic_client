@@ -101,3 +101,8 @@ All endpoints return the inner `subsonic-response` payload as JSON; errors are m
 | `GET /api/random` | `getRandomSongs` |
 | `GET /api/stream?id=` | `stream` (Range-forwarding proxy) |
 | `GET /api/cover?id=` | `getCoverArt` (image proxy) |
+
+
+
+
+hi
